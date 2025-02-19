@@ -1,0 +1,1 @@
+CFLAGS=-I. -fshort-wchar
